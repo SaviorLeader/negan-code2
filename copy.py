@@ -1,4 +1,4 @@
-mport random
+import random
 students =[["nicaaaat",200],["broshka",380],["araaa",100],["fara",220],["abdulah",100]]
 gifts =["iphone 17","iphone 17 pro","iphone 17 pro max"]
 university1= "baku state university"
